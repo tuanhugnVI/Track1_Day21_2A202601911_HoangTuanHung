@@ -1,0 +1,11 @@
+scenario_id,label,note
+sc-31-ambiguous-slide53,pass,Trả lời đúng slide
+sc-32-ambiguous-slide47,pass,Bám sát slide deixis
+sc-33-nearmiss-code-vs-judge,fail,"Tutor trích dẫn sai nguồn, nhầm lẫn khái niệm"
+sc-34-nearmiss-quote-hallucination,fail,"Quote bịa, không khớp nguyên văn"
+sc-35-nearmiss-confusion-fp-fn,pass,Tổng hợp tốt
+sc-36-nearmiss-chiphuyen-assertion,pass,Bác bỏ tiền đề ngược
+sc-37-ambiguous-slide35,pass,Formalize trace codes rất rõ
+sc-38-nearmiss-out-of-scope-boundary,pass,Nhận diện đúng Adam Optimizer là ngoài corpus
+sc-39-nearmiss-judge-bias,pass,Giải thích verbosity bias tốt
+sc-40-ambiguous-prompt-fix,uncertain,"Chưa rõ ý, tutor có hỏi lại nhưng chưa triệt để"
